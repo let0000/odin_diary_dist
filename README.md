@@ -7,7 +7,7 @@
    
    배포 : [https://port-0-odin-diary-dist-1jx7m2gldba9am1.gksl2.cloudtype.app](https://port-0-odin-diary-dist-1jx7m2gldba9am1.gksl2.cloudtype.app/)
 
-프론트 : [https://github.com/let0000/Map-chat](https://github.com/let0000/Map-chat)
+프론트 : [https://github.com/let0000/odin_diary](https://github.com/let0000/odin_diary)
 
 <p align='center'>
     <img src="https://img.shields.io/badge/node.js-v18.12.1-339933?logo=Node.js"/>
